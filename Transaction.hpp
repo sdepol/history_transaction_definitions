@@ -8,8 +8,8 @@
 /////////////////////////////////////////////////////////////////////////
 //ECE 150 - PROJECT 3
 //
-//File:					Transaction.hpp
-//Authors: 				Stephanie De Pol (Functions labeled "TASK")
+//File:			Transaction.hpp
+//Authors: 		Stephanie De Pol (Functions labeled "TASK")
 //                      Douglas Harder (Functions labeled "GIVEN")
 //                      Hiren Patel (Sections labeled "GIVEN")
 //Program Objective: 	Support program for History_Transaction_definitions.hpp
