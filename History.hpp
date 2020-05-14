@@ -13,7 +13,7 @@
 //
 //File:               History.hpp
 //Authors:            Stephanie De Pol
-//Program Objective: 	Support program for History_Transaction_definitions.hpp
+//Program Objective:  Support program for History_Transaction_definitions.hpp
 ///////////////////////////////////////////////////////////////////////////////
 
 class History {
