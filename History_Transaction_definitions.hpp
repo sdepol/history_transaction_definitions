@@ -12,8 +12,8 @@
 /////////////////////////////////////////////////////////////////////////
 //ECE 150 - PROJECT 3
 //
-//File:					History_Transaction_definitions.hpp
-//Authors: 				Stephanie De Pol (Functions labeled "TASK")
+//File:			History_Transaction_definitions.hpp
+//Authors: 		Stephanie De Pol (Functions labeled "TASK")
 //                      Douglas Harder (Functions labeled "GIVEN")
 //                      Hiren Patel (Sections labeled "GIVEN")
 //Program Objective: 	Use linked lists in order to store, sort, and make
