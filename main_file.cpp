@@ -11,9 +11,9 @@ int main();
 /////////////////////////////////////////////////////////////////////////
 //ECE 150 - PROJECT 3
 //
-//File:					main_file.cpp
-//Authors: 				Stephanie De Pol
-//Program Objective: 	Test cases for History_Transaction_definitions.hpp
+//File:               main_file.cpp
+//Authors:            Stephanie De Pol
+//Program Objective:  Test cases for History_Transaction_definitions.hpp
 ////////////////////////////////////////////////////////////////////////
 
 #ifndef MARMOSET_TESTING
