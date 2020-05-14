@@ -3,7 +3,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 // ECE 150: Project 3
 //
-// //File:				project3.hpp
+// //File:              project3.hpp
 // Authors:             Douglas Harder
 //                      Hiren Patel
 // Program Objective: 	Support program for History_Transaction_definitions.hpp
